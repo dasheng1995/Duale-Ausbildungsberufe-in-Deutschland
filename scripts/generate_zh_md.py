@@ -360,8 +360,11 @@ def render_index(dossiers: list[dict], mapping: dict[str, str]) -> str:
             )
             zust = ",".join(d.get("zust_codes") or []) or "?"
             fname = d.get("filename") or f"{d['slug']}.md"
+            de = short_de(d["name"])
+            href = f"berufe/{fname}"
+            # Angle-bracket destinations keep spaces/parentheses clickable on GitHub.
             lines.append(
-                f"- [{zh}](berufe/{fname}) · {short_de(d['name'])} · {dur} · {zust} · #{d['nr']}"
+                f"- [{zh}](<{href}>) · [{de}](<{href}>) · {dur} · {zust} · #{d['nr']}"
             )
         lines.append("")
 
@@ -382,7 +385,8 @@ def render_index(dossiers: list[dict], mapping: dict[str, str]) -> str:
         for d in by_group[gname]:
             zh = zh_of(d["name"], mapping)
             fname = d.get("filename") or f"{d['slug']}.md"
-            lines.append(f"- [{zh}](berufe/{fname})（{short_de(d['name'])}）")
+            href = f"berufe/{fname}"
+            lines.append(f"- [{zh}](<{href}>）（{short_de(d['name'])}）")
         lines.append("")
 
     lines.append("## 重新生成")
