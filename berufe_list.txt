@@ -1,0 +1,324 @@
+﻿IT系统电子技师-IT-System-Elektroniker.md
+IT系统管理商务专员-Kaufmann für IT-System-Management.md
+安保服务人员-Servicekraft für Schutz und Sicherheit.md
+安保专业人员-Fachkraft für Schutz und Sicherheit.md
+鞍具／皮革制品工-Sattler.md
+白铁／金属屋顶与排水工-Klempner.md
+办公管理商务专员-Kaufmann für Büromanagement.md
+包装材料技术员-Packmitteltechnologe.md
+宝石镶嵌工-Edelsteinfasser.md
+宝石研磨工-Edelsteinschleifer.md
+保温绝缘专业工-Isolierfacharbeiter.md
+保险与金融投资商务专员-Kaufmann für Versicherungen und Finanzanlagen.md
+编织工艺设计师-Flechtwerkgestalter.md
+标牌与灯光广告制作工-Schilder- und Lichtreklamehersteller.md
+表面镀覆工-Oberflächenbeschichter.md
+殡葬专业人员-Bestattungsfachkraft.md
+拨弦乐器制作工-Zupfinstrumentenmacher.md
+玻璃安装工-Glaser.md
+玻璃吹制工-Glasbläser.md
+玻璃工艺机械工-Verfahrensmechaniker Glastechnik.md
+玻璃精加工工-Glasveredler.md
+玻璃仪器制造工-Glasapparatebauer.md
+玻璃与瓷器彩绘工-Glas- und Porzellanmaler.md
+玻璃制造工-Glasmacher.md
+不动产商务专员-Immobilienkaufmann.md
+材料检验员-Werkstoffprüfer.md
+采矿技术员-Bergbautechnologe.md
+餐厅与活动餐饮专员-Fachmann für Restaurants und Veranstaltungsgastronomie.md
+餐饮专业人员-Fachkraft für Gastronomie.md
+仓储物流专业人员-Fachkraft für Lagerlogistik.md
+仓储员-Fachlagerist.md
+测量技术员-Vermessungstechniker.md
+拆除与混凝土切割建筑机械工-Bauwerksmechaniker für Abbruch und Betontrenntechnik.md
+车辆内饰机械工-Fahrzeuginterieur-Mechaniker.md
+车木工（牙雕工）-Drechsler (Elfenbeinschnitzer).md
+车身与车辆制造机械工-Karosserie- und Fahrzeugbaumechaniker.md
+沉浸式媒体设计师-Gestalter für immersive Medien.md
+冲压与成型机械工-Stanz- und Umformmechaniker.md
+厨房专业人员-Fachkraft Küche.md
+厨师-Koch.md
+畜牧从业者-Tierwirt.md
+船舶机械工-Schiffsmechaniker.md
+船只制造工-Bootsbauer.md
+瓷砖石材与马赛克铺贴工-Fliesen-, Platten- und Mosaikleger.md
+道路建造工-Straßenbauer.md
+道路养护工-Straßenwärter.md
+道路与交通技术专业人员-Fachkraft für Straßen- und Verkehrstechnik.md
+地理信息测量技师-Geomatiker.md
+地面铺装工-Bodenleger.md
+地坪找平工-Estrichleger.md
+地上建筑专业工-Hochbaufacharbeiter.md
+地下工程专业工-Tiefbaufacharbeiter.md
+电气设备安装工-Elektroanlagenmonteur.md
+电子技师（手工业）-Elektroniker.md
+电子商务商务专员-Kaufmann im E-Commerce.md
+雕刻工-Graveur.md
+定制鞋匠-Maßschuhmacher.md
+动物饲养员-Tierpfleger.md
+对话营销客服专员-Servicefachkraft für Dialogmarketing.md
+对话营销商务专员-Kaufmann für Dialogmarketing.md
+帆布／船帆制作工-Segelmacher.md
+纺织产品检验员-Produktprüfer-Textil.md
+纺织产品精整工-Produktveredler-Textil.md
+纺织产品设计师-Produktgestalter-Textil.md
+纺织品清洗工-Textilreiniger.md
+纺织生产机械工-Produktionsmechaniker-Textil.md
+纺织实验员-Textillaborant.md
+纺织与时装裁剪工-Textil- und Modeschneider.md
+纺织与时装缝纫工-Textil- und Modenäher.md
+改衣裁缝-Änderungsschneider.md
+钢结构制造机械工-Konstruktionsmechaniker.md
+钢琴与大键琴制作工-Klavier- und Cembalobauer.md
+港口船员-Hafenschiffer.md
+港口物流专业人员-Fachkraft für Hafenlogistik.md
+高级定制裁缝-Maßschneider.md
+糕点师-Konditor.md
+工具机械工-Werkzeugmechaniker.md
+工业保温绝缘工-Industrie-Isolierer.md
+工业电工-Industrieelektriker.md
+工业机械工-Industriemechaniker.md
+工业炉窑与烟囱建造工-Feuerungs- und Schornsteinbauer.md
+工业商务专员-Industriekaufmann.md
+工业陶瓷工（工艺技术）-Industriekeramiker Verfahrenstechnik.md
+工业陶瓷工（模型技术）-Industriekeramiker Modelltechnik.md
+工业陶瓷工（设备技术）-Industriekeramiker Anlagentechnik.md
+工业陶瓷工（装饰技术）-Industriekeramiker Dekorationstechnik.md
+弓箭制作工-Bogenmacher.md
+公证处文员-Notarfachangestellter.md
+管道铺设工-Rohrleitungsbauer.md
+管风琴制作工-Orgelbauer.md
+果汁技术专业人员-Fachkraft für Fruchtsafttechnik.md
+航空客运服务商务专员-Servicekaufmann im Luftverkehr.md
+航空器电子技师-Fluggerätelektroniker.md
+航空器机械工-Fluggerätmechaniker.md
+航空运输商务专员-Luftverkehrskaufmann.md
+航运商务专员-Schifffahrtskaufmann.md
+花艺师-Florist.md
+化工工艺工-Chemikant.md
+化工生产专业人员-Produktionsfachkraft Chemie.md
+化学实验室初级工-Chemielaborjungwerker.md
+化学实验员-Chemielaborant.md
+化妆造型师-Maskenbildner.md
+环境技术员（供水）-Umwelttechnologe für Wasserversorgung.md
+环境技术员（管网与工业设施）-Umwelttechnologe für Rohrleitungsnetze und Industrieanlagen.md
+环境技术员（污水管理）-Umwelttechnologe für Abwasserbewirtschaftung.md
+环境技术员（循环与废物经济）-Umwelttechnologe für Kreislauf- und Abfallwirtschaft.md
+灰泥石膏装饰工-Stuckateur.md
+混凝土与钢筋混凝土工-Beton- und Stahlbetonbauer.md
+活动策划商务专员-Veranstaltungskaufmann.md
+活动技术专业人员-Fachkraft für Veranstaltungstechnik.md
+货运代理与物流商务专员-Kaufmann für Spedition und Logistikdienstleistung.md
+机电一体化技师-Mechatroniker.md
+机器与设备操作工-Maschinen- und Anlagenführer.md
+机械与驱动技术电子技师（BBiG）-Elektroniker für Maschinen und Antriebstechnik nach dem Berufsbildungsgesetz.md
+机械与驱动技术电子技师（手工业条例）-Elektroniker für Maschinen und Antriebstechnik nach der Handwerksordnung.md
+技术产品设计师-Technischer Produktdesigner.md
+技术模型制作工-Technischer Modellbauer.md
+技术系统规划员-Technischer Systemplaner.md
+技术性成品缝制工-Technischer Konfektionär.md
+加油站服务员-Tankwart.md
+家具厨房与搬家服务专业人员-Fachkraft für Möbel-, Küchen- und Umzugsservice.md
+家政管理专员-Hauswirtschafter.md
+建筑材料检验员-Baustoffprüfer.md
+建筑防水工-Bauwerksabdichter.md
+建筑机械操作员-Baugeräteführer.md
+建筑制图员-Bauzeichner.md
+交通服务商务专员-Kaufmann für Verkehrsservice.md
+矫形技术机械工-Orthopädietechnik-Mechaniker.md
+矫形鞋制作工-Orthopädieschuhmacher.md
+脚手架搭建工-Gerüstbauer.md
+金属工艺技术员-Verfahrenstechnologe Metall.md
+金属技术专业人员-Fachkraft für Metalltechnik.md
+金属结构工-Metallbauer.md
+金属与铸钟工-Metall- und Glockengießer.md
+金属造型工-Metallbildner.md
+金银首饰工匠-Gold- und Silberschmied.md
+精密工具机械工-Präzisionswerkzeugmechaniker.md
+精密光学技师-Feinoptiker.md
+精密机械工-Feinwerkmechaniker.md
+精密抛光工-Feinpolierer.md
+酒店服务专员-Hotelfachmann.md
+酒店管理商务专员-Kaufmann für Hotelmanagement.md
+卷帘与遮阳机电技师-Rollladen- und Sonnenschutzmechatroniker.md
+客运驾驶运营专业人员-Fachkraft im Fahrbetrieb.md
+快递邮政商务专员-Kaufmann für Kurier-, Express- und Postdienstleistungen.md
+快递与邮政服务专业人员-Fachkraft für Kurier-, Express- und Postdienstleistungen.md
+矿山机械工-Berg- und Maschinenmann.md
+矿物加工机械工-Aufbereitungsmechaniker.md
+蜡烛与蜡塑制作工-Kerzenhersteller und Wachsbildner.md
+劳动力市场服务文员-Fachangestellter für Arbeitsmarktdienstleistungen.md
+乐器音乐零售专员-Musikfachhändler.md
+沥青铺装工-Asphaltbauer.md
+连锁餐饮系统专员-Fachmann für Systemgastronomie.md
+两轮车机电技师-Zweiradmechatroniker.md
+烈酒蒸馏工-Brenner.md
+猎区管理员-Revierjäger.md
+林业从业者-Forstwirt.md
+零售商务专员-Kaufmann im Einzelhandel.md
+楼宇清洁工-Gebäudereiniger.md
+楼宇系统集成电子技师-Elektroniker für Gebäudesystemintegration.md
+楼宇与基础设施系统电子技师-Elektroniker für Gebäude- und Infrastruktursysteme.md
+炉灶与热风采暖建造工-Ofen- und Luftheizungsbauer.md
+轮胎与硫化技术机械工-Mechaniker für Reifen- und Vulkanisationstechnik.md
+旅游商务专员（私人与商务旅行）-Tourismuskaufmann (Kaufmann für Privat- und Geschäftsreisen).md
+旅游休闲商务专员-Kaufmann für Tourismus und Freizeit.md
+律师事务所文员-Rechtsanwaltsfachangestellter.md
+律师与公证文员-Rechtsanwalts- und Notarfachangestellter.md
+马术／养马从业者-Pferdewirt.md
+毛皮精加工工-Pelzveredler.md
+媒体与信息服务文员-Fachangestellter für Medien- und Informationsdienste.md
+美发师-Friseur.md
+美容师-Kosmetiker.md
+面包师-Bäcker.md
+木材机械工-Holzmechaniker.md
+木材加工机械工-Holzbearbeitungsmechaniker.md
+木材与建筑防护工-Holz- und Bautenschützer.md
+木材与建筑防护专业人员-Fachkraft für Holz- und Bautenschutzarbeiten.md
+木地板铺装工-Parkettleger.md
+木雕工-Holzbildhauer.md
+木管乐器制作工-Holzblasinstrumentenmacher.md
+木结构建筑工-Zimmerer.md
+木桶制作工-Böttcher.md
+木制玩具制作工-Holzspielzeugmacher.md
+内河船员-Binnenschiffer.md
+内河船长-Binnenschifffahrtskapitän.md
+霓虹灯玻璃吹制工-Leuchtröhrenglasbläser.md
+碾磨与谷物经济工艺技术员-Verfahrenstechnologe Mühlen- und Getreidewirtschaft.md
+农场主／农业从业者-Landwirt.md
+农机与工程机械机电技师-Land- und Baumaschinenmechatroniker.md
+农业服务专业人员-Fachkraft Agrarservice.md
+女帽／时装帽制作工-Modist.md
+配送服务驾驶员-Servicefahrer.md
+批发与外贸管理商务专员-Kaufmann für Groß- und Außenhandelsmanagement.md
+皮草裁缝-Kürschner.md
+皮革加工专业人员-Fachkraft für Lederverarbeitung.md
+啤酒酿造与制麦工-Brauer und Mälzer.md
+平板玻璃技术员-Flachglastechnologe.md
+葡萄酒技术员-Weintechnologe.md
+葡萄种植与酿酒从业者-Winzer.md
+企业消防员-Werkfeuerwehrmann.md
+汽车机电技师-Kraftfahrzeugmechatroniker.md
+汽车喷漆工-Fahrzeuglackierer.md
+汽车商务专员-Automobilkaufmann.md
+砌筑工-Maurer.md
+枪械制造工-Büchsenmacher.md
+切削加工机械工-Zerspanungsmechaniker.md
+轻钢龙骨／干式隔墙安装工-Trockenbaumonteur.md
+轻型飞机制造工-Leichtflugzeugbauer.md
+热冷声防护保温工-Wärme-, Kälte- und Schallschutzisolierer.md
+人事服务商务专员-Personaldienstleistungskaufmann.md
+人造石材制造工-Werksteinhersteller.md
+容器与器械制造工-Behälter- und Apparatebauer.md
+乳品技术员-Milchtechnologe.md
+乳业实验员-Milchwirtschaftlicher Laborant.md
+软包家具工-Polsterer.md
+软装与装饰缝纫工-Polster- und Dekorationsnäher.md
+设备机械工-Anlagenmechaniker.md
+设备与系统电子技师-Elektroniker für Geräte und Systeme.md
+社会保险文员-Sozialversicherungsfachangestellter.md
+摄影师-Fotograf.md
+生产技术员-Produktionstechnologe.md
+生产装配机械工-Fertigungsmechaniker.md
+生物模型制作工-Biologiemodellmacher.md
+生物实验员-Biologielaborant.md
+绳索制作工-Seiler.md
+石材土料工业工艺机械工-Verfahrensmechaniker in der Steine- und Erdenindustrie.md
+石匠与石雕工-Steinmetz und Steinbildhauer.md
+食品技术专业人员-Fachkraft für Lebensmitteltechnik.md
+食品手工业专卖售货员-Fachverkäufer im Lebensmittelhandwerk.md
+市场与社会调研文员-Fachangestellter für Markt- und Sozialforschung.md
+视觉营销设计师-Gestalter für visuelles Marketing.md
+视听媒体商务专员-Kaufmann für audiovisuelle Medien.md
+室内装饰软装工-Raumausstatter.md
+室内装修专业工-Ausbaufacharbeiter.md
+手风琴类乐器制作工-Handzuginstrumentenmacher.md
+手工瓷器彩绘工-Manufakturporzellanmaler.md
+手工业纺织设计师-Textilgestalter im Handwerk.md
+首饰箱包腕表工业辅助工-Werkgehilfe Schmuckwarenindustrie, Taschen- und Armbanduhren.md
+售货员-Verkäufer.md
+兽医助理-Tiermedizinischer Fachangestellter.md
+书籍装订工-Buchbinder.md
+数学技术软件开发员-Mathematisch-technischer Softwareentwickler.md
+数字化管理商务专员-Kaufmann für Digitalisierungsmanagement.md
+数字与印刷媒体商务专员-Medienkaufmann Digital und Print.md
+数字与印刷媒体设计师-Mediengestalter Digital und Print.md
+刷具与画笔制作工-Bürsten- und Pinselmacher.md
+水井建造工-Brunnenbauer.md
+水利工程工-Wasserbauer.md
+水利专业人员-Fachkraft für Wasserwirtschaft.md
+税务文员-Steuerfachangestellter.md
+司法文员-Justizfachangestellter.md
+丝网印刷媒体技术员-Medientechnologe Siebdruck.md
+塑料与橡胶技术员-Kunststoff- und Kautschuktechnologe.md
+糖果甜食技术员-Süßwarentechnologe.md
+陶瓷检测技术员-Prüftechnologe Keramik.md
+陶瓷人像成型工-Figurenkeramformer.md
+陶艺工匠-Keramiker.md
+特殊地下工程工-Spezialtiefbauer.md
+体育健身商务专员-Sport- und Fitnesskaufmann.md
+体育专员-Sportfachmann.md
+天然石材机械工-Naturwerksteinmechaniker.md
+贴金／镀金工-Vergolder.md
+铁轨铺设工-Gleisbauer.md
+铁路行车调度人员-Eisenbahner in der Zugverkehrssteuerung.md
+铁路与公路交通商务专员-Kaufmann im Eisenbahn- und Straßenverkehr.md
+铁路运营人员（机车司机与运输）-Eisenbahner im Betriebsdienst Lokführer und Transport.md
+听力验配师-Hörakustiker.md
+铜管乐器制作工-Metallblasinstrumentenmacher.md
+投资基金商务专员-Investmentfondskaufmann.md
+图书销售专员-Buchhändler.md
+涂覆工艺机械工-Verfahrensmechaniker für Beschichtungstechnik.md
+涂料实验员-Lacklaborant.md
+屠宰加工工-Fleischer.md
+外科器械机械工-Chirurgiemechaniker.md
+外立面安装工-Fassadenmonteur.md
+玩具制造工-Spielzeughersteller.md
+微技术技术员-Mikrotechnologe.md
+卫生供暖空调设备机械工-Anlagenmechaniker für Sanitär-, Heizungs- und Klimatechnik.md
+温度计制作工-Thermometermacher.md
+屋顶工-Dachdecker.md
+舞台绘景与造型工-Bühnenmaler und -plastiker.md
+物理实验员-Physiklaborant.md
+细木工／木匠-Tischler.md
+下水道／管渠建造工-Kanalbauer.md
+小提琴制作工-Geigenbauer.md
+信息电子技师-Informationselektroniker.md
+信息技术专员-Fachinformatiker.md
+信息与系统技术电子技师-Elektroniker für Informations- und Systemtechnik.md
+行政管理文员-Verwaltungsfachangestellter.md
+牙科助理-Zahnmedizinischer Fachangestellter.md
+烟囱清扫与烟气检测工-Schornsteinfeger.md
+眼镜光学工艺机械工-Verfahrensmechaniker für Brillenoptik.md
+眼镜验光配制技师-Augenoptiker.md
+药店商务助理-Pharmazeutisch-kaufmännischer Angestellter.md
+药品生产工-Pharmakant.md
+药妆零售专员-Drogist.md
+医疗健康商务专员-Kaufmann im Gesundheitswesen.md
+医疗助理-Medizinischer Fachangestellter.md
+义齿技工-Zahntechniker.md
+银行商务专员-Bankkaufmann.md
+印后加工媒体技术员-Medientechnologe Druckverarbeitung.md
+印刷媒体技术员-Medientechnologe Druck.md
+营销传播商务专员-Kaufmann für Marketingkommunikation.md
+影像媒体专员-Fotomedienfachmann.md
+影像与声音媒体设计师-Mediengestalter Bild und Ton.md
+油漆工-Maler und Lackierer.md
+游泳馆／浴场专业文员-Fachangestellter für Bäderbetriebe.md
+有害生物防治员-Schädlingsbekämpfer.md
+渔业从业者-Fischwirt.md
+预制混凝土构件工-Betonfertigteilbauer.md
+运营技术电子技师-Elektroniker für Betriebstechnik.md
+造纸技术员-Papiertechnologe.md
+蒸馏技师-Destillateur.md
+职业货车／客车驾驶员-Berufskraftfahrer.md
+植物技术员-Pflanzentechnologe.md
+制革与皮革制造专业人员-Fachkraft für Lederherstellung und Gerbereitechnik.md
+制冷机电技师-Mechatroniker für Kältetechnik.md
+制鞋工-Schuhfertiger.md
+钟表匠-Uhrmacher.md
+铸造机械工-Gießereimechaniker.md
+专利律师事务所文员-Patentanwaltsfachangestellter.md
+自动化技术电子技师-Elektroniker für Automatisierungstechnik.md
+自动售货机专业人员-Automatenfachmann.md
+自行车装配工-Fahrradmonteur.md

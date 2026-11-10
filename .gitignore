@@ -1,0 +1,11 @@
+.notion_upload/
+_gen/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+*.log
+.venv/
+venv/
+.env
