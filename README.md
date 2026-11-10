@@ -1,7 +1,7 @@
 # 德国双元制承认培训职业资料库（中文版）
 
 > 基于德国联邦职业教育研究所（BIBB）《承认培训职业名录 **2026**》（截至 2025-10-01）整理。
-> 共 **325** 个承认 / 视同承认的双元制培训职业。
+> 共 **329** 个承认 / 视同承认的双元制培训职业。
 
 ## 说明
 
@@ -10,6 +10,7 @@
 - **名录不含**：具体薪资、企业日常、个人录取把握——见各职业页第 3–5、8 节继续核查。
 - **中文译名**便于阅读；申请、合同与考试请始终使用**德语官方名称**。
 - 结构化数据：`data/berufe.json`；译名表：`data/zh_names.json`。
+- **补充**：另收录 4 个可自申、带培训津贴的卫生健康类学校教育职业（护理专员、急救卫生员、手术/麻醉技术助理）；法律非 BBiG，但申请形态近似双元制。详见各专页首页说明。
 - 官方 PDF：<https://www.bibb.de/dienst/publikationen/de/21008>
 
 ## 按字母索引（德语）
@@ -25,6 +26,8 @@
 - [室内装修专业工](<berufe/室内装修专业工-Ausbaufacharbeiter.md>) · [Ausbaufacharbeiter](<berufe/室内装修专业工-Ausbaufacharbeiter.md>) · 24个月 · Hw,IH · #7
 - [自动售货机专业人员](<berufe/自动售货机专业人员-Automatenfachmann.md>) · [Automatenfachmann](<berufe/自动售货机专业人员-Automatenfachmann.md>) · 36个月 · IH · #8
 - [汽车商务专员](<berufe/汽车商务专员-Automobilkaufmann.md>) · [Automobilkaufmann](<berufe/汽车商务专员-Automobilkaufmann.md>) · 36个月 · IH · #9
+- [麻醉技术助理](<berufe/麻醉技术助理-Anästhesietechnischer Assistent.md>) · [Anästhesietechnischer Assistent](<berufe/麻醉技术助理-Anästhesietechnischer Assistent.md>) · 36个月 · 卫生学校（PflBG系/ATA-OTA-G） · #G1
+
 
 ### B
 
@@ -274,6 +277,8 @@
 
 - [天然石材机械工](<berufe/天然石材机械工-Naturwerksteinmechaniker.md>) · [Naturwerksteinmechaniker](<berufe/天然石材机械工-Naturwerksteinmechaniker.md>) · 36个月 · IH · #218
 - [公证处文员](<berufe/公证处文员-Notarfachangestellter.md>) · [Notarfachangestellter](<berufe/公证处文员-Notarfachangestellter.md>) · 36个月 · FB · #219
+- [急救卫生员](<berufe/急救卫生员-Notfallsanitäter.md>) · [Notfallsanitäter](<berufe/急救卫生员-Notfallsanitäter.md>) · 36个月 · 卫生学校（NotSanG） · #G2
+
 
 ### O
 
@@ -282,6 +287,8 @@
 - [管风琴制作工](<berufe/管风琴制作工-Orgelbauer.md>) · [Orgelbauer](<berufe/管风琴制作工-Orgelbauer.md>) · 42个月 · Hw,IH · #222
 - [矫形鞋制作工](<berufe/矫形鞋制作工-Orthopädieschuhmacher.md>) · [Orthopädieschuhmacher](<berufe/矫形鞋制作工-Orthopädieschuhmacher.md>) · 42个月 · Hw · #223
 - [矫形技术机械工](<berufe/矫形技术机械工-Orthopädietechnik-Mechaniker.md>) · [Orthopädietechnik-Mechaniker](<berufe/矫形技术机械工-Orthopädietechnik-Mechaniker.md>) · 36个月 · Hw · #224
+- [手术技术助理](<berufe/手术技术助理-Operationstechnischer Assistent.md>) · [Operationstechnischer Assistent](<berufe/手术技术助理-Operationstechnischer Assistent.md>) · 36个月 · 卫生学校（ATA-OTA-G） · #G3
+
 
 ### P
 
@@ -306,6 +313,8 @@
 - [纺织产品检验员](<berufe/纺织产品检验员-Produktprüfer-Textil.md>) · [Produktprüfer-Textil](<berufe/纺织产品检验员-Produktprüfer-Textil.md>) · 24个月 · IH · #243
 - [纺织产品精整工](<berufe/纺织产品精整工-Produktveredler-Textil.md>) · [Produktveredler-Textil](<berufe/纺织产品精整工-Produktveredler-Textil.md>) · 36个月 · IH · #244
 - [陶瓷检测技术员](<berufe/陶瓷检测技术员-Prüftechnologe Keramik.md>) · [Prüftechnologe Keramik](<berufe/陶瓷检测技术员-Prüftechnologe Keramik.md>) · 36个月 · IH · #245
+- [护理专员](<berufe/护理专员-Pflegefachmann.md>) · [Pflegefachmann](<berufe/护理专员-Pflegefachmann.md>) · 36个月 · 卫生学校（PflBG） · #G4
+
 
 ### R
 
@@ -839,6 +848,14 @@
 - [舞台绘景与造型工](<berufe/舞台绘景与造型工-Bühnenmaler und -plastiker.md>)（Bühnenmaler und -plastiker）
 - [活动技术专业人员](<berufe/活动技术专业人员-Fachkraft für Veranstaltungstechnik.md>)（Fachkraft für Veranstaltungstechnik）
 - [影像与声音媒体设计师](<berufe/影像与声音媒体设计师-Mediengestalter Bild und Ton.md>)（Mediengestalter Bild und Ton）
+
+
+### G 卫生健康类学校教育职业（带津贴、可自申；非 BBiG）
+
+- [麻醉技术助理](<berufe/麻醉技术助理-Anästhesietechnischer Assistent.md>)（Anästhesietechnischer Assistent）
+- [急救卫生员](<berufe/急救卫生员-Notfallsanitäter.md>)（Notfallsanitäter）
+- [手术技术助理](<berufe/手术技术助理-Operationstechnischer Assistent.md>)（Operationstechnischer Assistent）
+- [护理专员](<berufe/护理专员-Pflegefachmann.md>)（Pflegefachmann）
 
 ## 重新生成
 
